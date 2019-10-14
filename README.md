@@ -1,2 +1,2 @@
 # GAN
-Remote Sensing Image Classification based on GAN
+GAN for Remote Sensing Image Classification 
